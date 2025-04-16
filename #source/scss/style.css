@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
 @font-face {
   font-family: "interstate";
-  src: url("../../fonts/interstate-bold.otf") format("opentype");
+  src: url("../fonts/interstate-bold.otf") format("opentype");
   font-weight: 600;
 }
 body * {
@@ -2281,7 +2281,6 @@ header.header.scroll {
 @media (max-width: 1499.8px) {
   .header__logo:after {
     right: -26px;
-    display: none;
   }
 }
 @media (max-width: 1399.8px) {
