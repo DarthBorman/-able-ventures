@@ -231,6 +231,7 @@ header.header {
 @media(max-width:1499.8px) {
     .header__logo:after {
         right: -26px;
+        display: none;
     }
 }
 
